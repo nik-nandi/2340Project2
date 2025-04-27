@@ -123,5 +123,5 @@ LOGIN_REDIRECT_URL = 'profile'
 LOGIN_URL = 'login'
 
 #Api Keys
-GOOGLE_MAPS_API_KEY = "AIzaSyB_tyZhfe2EvKewhWPC4whSex4W6rjAySA"
-GEMINI_API_KEY = "AIzaSyDp5R4x-C-PYf47axQbcnPgusiE1anhArw"
+GOOGLE_MAPS_API_KEY = ""
+GEMINI_API_KEY = ""
